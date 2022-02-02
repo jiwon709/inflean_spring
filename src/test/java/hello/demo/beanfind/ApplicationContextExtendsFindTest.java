@@ -1,4 +1,4 @@
-package beanfind;
+package hello.demo.beanfind;
 
 import hello.demo.discount.DiscountPolicy;
 import hello.demo.discount.FixDiscountPolicy;

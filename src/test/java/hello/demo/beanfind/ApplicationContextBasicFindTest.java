@@ -1,4 +1,4 @@
-package beanfind;
+package hello.demo.beanfind;
 
 import hello.demo.AppConfig;
 import hello.demo.member.MemberService;
